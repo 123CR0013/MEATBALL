@@ -70,7 +70,8 @@ Visual Studio 2022
 ■起動方法
 
 
-Visual Studioでプログラムファイルを開きF5キーもしくはデバックの実行で開始できる。
+・MEATBALL020Eフォルダ内のMEATBALL.exeを実行
+（ダウンロードリンク https://drive.google.com/file/d/1G1-RrTD3QRcX3JyezcZpsDDoYipT9rD9/view?usp=drive_link）
 
 
 ■終了方法
