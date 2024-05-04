@@ -162,6 +162,9 @@ Visual Studio 2022
 ■その他
 
 
+GitHub
+（https://github.com/123CR0013/MEATBALL）
+
 ゲームクリエイター甲子園に出展
 （作品紹介ページ https://gameparade.creators-guild.com/works/1553）
 
